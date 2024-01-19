@@ -1,58 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>jorgedipra</title>
-    <link rel="stylesheet" href="https://unpkg.com/bootstrap@4.6.1/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://unpkg.com/bootstrap-vue@2.23.0/dist/bootstrap-vue.css">
+  <meta charset="utf-8">
+  <link rel="icon" href="/dist/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mi Aplicación Vue.js</title>
+  <!-- Puedes agregar aquí cualquier otra configuración de metaetiquetas, estilos, etc. -->
+  <script defer src="/dist/js/chunk-vendors.4b936b43.js"></script>
+  <script defer src="/dist/js/app.e3b7eb7a.js"></script>
+  <link href="/dist/css/app.dca7ce17.css" rel="stylesheet">
 </head>
 <body>
-    <div id="app">
-        <div>
-          <b-button size="sm" @click="toggle">
-            {{ show ? 'Hide' : 'Show' }} Alert
-          </b-button>
-          <b-alert
-            v-model="show"
-            class="mt-3"
-            dismissible
-            @dismissed="dismissed"
-          >
-            Hello {{ name }}!
-          </b-alert>
-        </div>
-      </div>
-<script>
-    window.onload = () => {
-  new Vue({
-    el: '#app',
-    data() {
-      return {
-        name: 'BootstrapVue',
-        show: true
-      }
-    },
-    watch: {
-      show(newVal) {
-        console.log('Alert is now ' + (newVal ? 'visible' : 'hidden'))
-      }
-    },
-    methods: {
-      toggle() {
-        console.log('Toggle button clicked')
-        this.show = !this.show
-      },
-      dismissed() {
-        console.log('Alert dismissed')
-      }
-    }
-  })
-}
-</script>
-    <script src="https://unpkg.com/babel-polyfill/dist/polyfill.min.js"></script>
-    <script src="https://unpkg.com/vue@2.6.12/dist/vue.min.js"></script>
-    <script src="https://unpkg.com/bootstrap-vue@2.23.0/dist/bootstrap-vue.js"></script>
-    <script src="https://unpkg.com/bootstrap-vue@2.23.0/dist/bootstrap-vue-icons.js"></script>
+  <div id="app"></div>
+  <script type="module" src="/src/main.js"></script>
 </body>
 </html>
