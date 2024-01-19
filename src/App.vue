@@ -1,20 +1,28 @@
 <template>
   <div>
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <b-container class="bv-body-row">
+      <b-row class="bv-header-row"> 
+        <CompHeader></CompHeader>
+      </b-row>
+    </b-container>
+    <!-- <HelloWorld msg="Welcome to Your Vue.js App."/> -->
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue';
+import CompHeader from './components/header.vue';
+// import HelloWorld from './components/HelloWorld.vue';
 
 export default {
   components: {
-    HelloWorld
+    CompHeader
+    // HelloWorld
   }
 }
 </script>
 
 <style>
-/* Estilos aquí */
+div{
+  border: none;
+}
 </style>
