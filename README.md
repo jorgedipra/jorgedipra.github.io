@@ -13,15 +13,15 @@
 
 - 👯 Estoy buscando colaborar en **desarollos**
 
-- 👨‍💻 Algunos de mis proyectos están disponibles en [jorgedipra.github.io/](jorgedipra.github.io/)
+- 👨‍💻 Algunos de mis proyectos están disponibles en [jorgedipra.github.io/](https://jorgedipra.github.io/)
 
-- 📝Escribo regularmente artículos [jorgedipra.blogspot.com/](jorgedipra.blogspot.com/)
+- 📝Escribo regularmente artículos [jorgedipra.blogspot.com/](https://jorgedipra.blogspot.com/)
 
 - 💬 Preguntame sobre **vue, laravel, php, etc..**
 
 - 📫 como llegar a mi **jorgedipra@gmail.com**
 
-- 📄 Conoce mis experiencias [jorgedipra.github.io/#portafolio](jorgedipra.github.io/#portafolio)
+- 📄 Conoce mis experiencias [jorgedipra.github.io/#portafolio](https://jorgedipra.github.io/#portafolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
