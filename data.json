@@ -1,0 +1,285 @@
+{
+  "articulos": [
+    {
+      "titulo": "Pagina",
+      "linkText": "Jorgedipra",
+      "linkText_1": "jorgedipra.com",
+      "imageUrl": "./img/portafolio/page/jorgedipra.png",
+      "imageUrl_1": "./img/portafolio/logo/jorgedipra.png",
+      "externalLink": "https://github.com/jorgedipra/jorgedipra.github.io",
+      "externalLink_1": "jorgedipra.github.io/"
+    },{
+      "titulo": "Pagina",
+      "linkText": "Cerlalc",
+      "linkText_1": "cerlalc.org",
+      "imageUrl": "./img/portafolio/page/cerlalc.png",
+      "imageUrl_1": "./img/portafolio/logo/cerlalc.png",
+      "externalLink": "https://cerlalc.org/",
+      "externalLink_1": "https://cerlalc.org/"
+    },{
+      "titulo": "Gestor ISBN",
+      "linkText": "Cámara Ecuatoriana del Libro",
+      "linkText_1": "isbnecuador.com",
+      "imageUrl": "./img/portafolio/page/isbn.png",
+      "imageUrl_1": "./img/portafolio/logo/isbn.png",
+      "externalLink": "https://isbnecuador.com/",
+      "externalLink_1": "https://isbnecuador.com/"
+    },{
+      "titulo": "Gestor ISBN",
+      "linkText": "Cámara Venezolana del Libro",
+      "linkText_1": "isbn.cenal.gob.ve",
+      "imageUrl": "./img/portafolio/page/isbn.png",
+      "imageUrl_1": "./img/portafolio/logo/isbn.png",
+      "externalLink": "http://isbn.cenal.gob.ve/",
+      "externalLink_1": "http://isbn.cenal.gob.ve/"
+    },{
+      "titulo": "Gestor ISBN",
+      "linkText": "Cámara Chilena del Libro",
+      "linkText_1": "isbnchile.cl",
+      "imageUrl": "./img/portafolio/page/isbn.png",
+      "imageUrl_1": "./img/portafolio/logo/isbn.png",
+      "externalLink": "https://isbnchile.cl/",
+      "externalLink_1": "https://isbnchile.cl/"
+    },{
+      "titulo": "Cursos",
+      "linkText": "AULA VIRTUAL",
+      "linkText_1": "aulavirtual.cerlalc.org",
+      "imageUrl": "./img/portafolio/page/aulavirtual.png",
+      "imageUrl_1": "./img/portafolio/logo/aulavirtual.png",
+      "externalLink": "https://aulavirtual.cerlalc.org/",
+      "externalLink_1": "https://aulavirtual.cerlalc.org/"
+    },{
+      "titulo": "Pagina",
+      "linkText": "Rescatandolahistoria",
+      "linkText_1": "rescatandolahistoria.cerlalc.org",
+      "imageUrl": "./img/portafolio/page/rescatandolahistoria.png",
+      "imageUrl_1": "./img/portafolio/logo/rescatandolahistoria.png",
+      "externalLink": "https://web.archive.org/web/20230328073126/https://rescatandolahistoria.cerlalc.org/",
+      "externalLink_1": "https://web.archive.org/web/20230328073126/https://rescatandolahistoria.cerlalc.org/"
+    },{
+      "titulo": "Juego",
+      "linkText": "GAME-tank",
+      "linkText_1": "GAME-tank.com",
+      "imageUrl": "./img/portafolio/page/GAME-tank.png",
+      "imageUrl_1": "./img/portafolio/logo/GAME-tank.png",
+      "externalLink": "https://github.com/jorgedipra/GAME-tank",
+      "externalLink_1": "https://jorgedipra.github.io/GAME-tank/"
+    },
+    {
+      "titulo": "Finanzas",
+      "linkText": "Calculadora_prestamos",
+      "linkText_1": "Calculadora_prestamos.com",
+      "imageUrl": "./img/portafolio/page/Calculadora_prestamos.png",
+      "imageUrl_1": "./img/portafolio/logo/Calculadora_prestamos.png",
+      "externalLink": "https://jorgedipra.github.io/Calculadora_prestamos/",
+      "externalLink_1": "https://jorgedipra.github.io/Calculadora_prestamos/"
+    },
+    {
+      "titulo": "Proyectos",
+      "linkText": "MJPlay-v",
+      "linkText_1": "mjplay-v.16mb.com",
+      "imageUrl": "./img/portafolio/page/mjplay-v.png",
+      "imageUrl_1": "./img/portafolio/logo/mjplay-v.png",
+      "externalLink": "https://github.com/jorgedipra/Mjplayv",
+      "externalLink_1": "https://github.com/jorgedipra/Mjplayv"
+    },
+    {
+      "titulo": "Viajes",
+      "linkText": "Azca Cruceros",
+      "linkText_1": "azcacruceros.com",
+      "imageUrl": "./img/portafolio/page/azcacruceros.png",
+      "imageUrl_1": "./img/portafolio/logo/azcacruceros.png",
+      "externalLink": "https://azcacruceros.com/public/",
+      "externalLink_1": "https://azcacruceros.com/public/"
+    },
+    {
+      "titulo": "Cruceros",
+      "linkText": "Crucerum.com",
+      "linkText_1": "crucerum.com",
+      "imageUrl": "./img/portafolio/page/crucerum.png",
+      "imageUrl_1": "./img/portafolio/logo/crucerum.png",
+      "externalLink": "https://www.crucerum.com/",
+      "externalLink_1": "https://www.crucerum.com/"
+    },
+    {
+      "titulo": "Canal de TV",
+      "linkText": "Glow Sky Networks",
+      "linkText_1": "glowskyyoung.com",
+      "imageUrl": "./img/portafolio/page/glowskyyoung.png",
+      "imageUrl_1": "./img/portafolio/logo/glowskyyoung.png",
+      "externalLink": "https://github.com/jorgedipra/come",
+      "externalLink_1": "https://github.com/jorgedipra/come"
+    },
+    {
+      "titulo": "Cursos",
+      "linkText": "La Unidad",
+      "linkText_1": "ugpp.cifooiss.org",
+      "imageUrl": "./img/portafolio/page/LaUnidad.png",
+      "imageUrl_1": "./img/portafolio/logo/LaUnidad.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://ugpp.cifooiss.org/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://ugpp.cifooiss.org/"
+    },
+    {
+      "titulo": "Cursos",
+      "linkText": "SuperSalud",
+      "linkText_1": "supersalud.cifooiss.org",
+      "imageUrl": "./img/portafolio/page/SuperSalud.png",
+      "imageUrl_1": "./img/portafolio/logo/SuperSalud.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://supersalud.cifooiss.org/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://supersalud.cifooiss.org/"
+    },
+    {
+      "titulo": "Cursos",
+      "linkText": "Mintrabajo2016",
+      "linkText_1": "mintrabajo2016.cifooiss.org",
+      "imageUrl": "./img/portafolio/page/mintrabajo2016.png",
+      "imageUrl_1": "./img/portafolio/logo/mintrabajo2016.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://mintrabajo2016.cifooiss.org/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://mintrabajo2016.cifooiss.org/"
+    },
+    {
+      "titulo": "Cursos",
+      "linkText": "Secretaría Distrital",
+      "linkText_1": "sds.cifooiss.org",
+      "imageUrl": "./img/portafolio/page/SecretariaDistrital.png",
+      "imageUrl_1": "./img/portafolio/logo/SecretariaDistrital.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://sds.cifooiss.org/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://sds.cifooiss.org/"
+    },
+    {
+      "titulo": "Cursos",
+      "linkText": "Supersubsidio",
+      "linkText_1": "supersubsidio2016.cifooiss.org",
+      "imageUrl": "./img/portafolio/page/Supersubsidio.png",
+      "imageUrl_1": "./img/portafolio/logo/Supersubsidio.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://supersubsidio2016.cifooiss.org/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://supersubsidio2016.cifooiss.org/"
+    },
+    {
+      "titulo": "Informativa",
+      "linkText": "Plan Nacional",
+      "linkText_1": "cifooiss.co/mintrabajo2017",
+      "imageUrl": "./img/portafolio/page/PlanNacionaldeSeguridadySaludenelTrabajo20132021PNSST.png",
+      "imageUrl_1": "./img/portafolio/logo/PlanNacionaldeSeguridadySaludenelTrabajo20132021PNSST.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://cifooiss.co/mintrabajo2017",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://cifooiss.co/mintrabajo2017"
+    },
+    {
+      "titulo": "Informativo",
+      "linkText": "Formalización laboral",
+      "linkText_1": "formalizacionlaboral.org",
+      "imageUrl": "./img/portafolio/page/formalizacionlaboral.png",
+      "imageUrl_1": "./img/portafolio/logo/formalizacionlaboral.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://formalizacionlaboral.org/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://formalizacionlaboral.org/"
+    },
+    {
+      "titulo": "Informativo",
+      "linkText": "Estratco",
+      "linkText_1": "estrategiayconocimiento.com",
+      "imageUrl": "./img/portafolio/page/Estratco.png",
+      "imageUrl_1": "./img/portafolio/logo/Estratco.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://estrategiayconocimiento.com/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://estrategiayconocimiento.com/"
+    },
+    {
+      "titulo": "Comunicación",
+      "linkText": "El Observatorio",
+      "linkText_1": "revisaiberoamerica.org",
+      "imageUrl": "./img/portafolio/page/ElObservatorio.png",
+      "imageUrl_1": "./img/portafolio/logo/ElObservatorio.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://revisaiberoamerica.org/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://revisaiberoamerica.org/"
+    },
+    {
+      "titulo": "Preproducción",
+      "linkText": "Proyectos",
+      "linkText_1": "cifooiss.com",
+      "imageUrl": "./img/portafolio/page/Proyectos.png",
+      "imageUrl_1": "./img/portafolio/logo/Proyectos.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://cifooiss.com/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://cifooiss.com/"
+    },
+    {
+      "titulo": "Informativa",
+      "linkText": "Cifooiss",
+      "linkText_1": "cifooiss.org",
+      "imageUrl": "./img/portafolio/page/cifooiss.png",
+      "imageUrl_1": "./img/portafolio/logo/cifooiss.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://cifooiss.org/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://cifooiss.org/"
+    },
+    {
+      "titulo": "Cursos",
+      "linkText": "Mintrabajo2015",
+      "linkText_1": "mintrabajo.cifooiss.org",
+      "imageUrl": "./img/portafolio/page/Mintrabajo2015.png",
+      "imageUrl_1": "./img/portafolio/logo/Mintrabajo2015.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://mintrabajo.cifooiss.org/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://mintrabajo.cifooiss.org/"
+    },
+    {
+      "titulo": "Pruebas",
+      "linkText": "Ingenieria",
+      "linkText_1": "ingenieria.cifooiss.com",
+      "imageUrl": "./img/portafolio/page/Ingenieria.png",
+      "imageUrl_1": "./img/portafolio/logo/Ingenieria.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://ingenieria.cifooiss.com/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://ingenieria.cifooiss.com/"
+    },
+    {
+      "titulo": "Cursos",
+      "linkText": "Promedco",
+      "linkText_1": "promedco.estrategiayconocimiento.com",
+      "imageUrl": "./img/portafolio/page/Promedco.png",
+      "imageUrl_1": "./img/portafolio/logo/Promedco.png",
+      "externalLink": "https://web.archive.org/web/20180825151548/http://promedco.estrategiayconocimiento.com/",
+      "externalLink_1": "https://web.archive.org/web/20180825151548/http://promedco.estrategiayconocimiento.com/"
+    },
+    {
+      "titulo": "Cursos",
+      "linkText": "Bookpro-v",
+      "linkText_1": "bookpro-v.com",
+      "imageUrl": "./img/portafolio/page/Bookpro-v.png",
+      "imageUrl_1": "./img/portafolio/logo/Bookpro-v.png",
+      "externalLink": "https://github.com/jorgedipra/bookpro-v",
+      "externalLink_1": "https://jorgedipra.github.io/bookpro-v/index1.html"
+    },
+    {
+      "titulo": "Repositorio",
+      "linkText": "intranet",
+      "linkText_1": "intranet.com",
+      "imageUrl": "./img/portafolio/page/repositrio.png",
+      "imageUrl_1": "./img/portafolio/logo/repositrio.png",
+      "externalLink": "https://github.com/jorgedipra/intranet",
+      "externalLink_1": "https://github.com/jorgedipra/intranet"
+    },
+    {
+      "titulo": "Repositorio",
+      "linkText": "code-jorgedipra",
+      "linkText_1": "code-jorgedipra.com",
+      "imageUrl": "./img/portafolio/page/repositrio.png",
+      "imageUrl_1": "./img/portafolio/logo/repositrio.png",
+      "externalLink": "https://github.com/jorgedipra/code-jorgedipra",
+      "externalLink_1": "https://github.com/jorgedipra/code-jorgedipra"
+    },
+    {
+      "titulo": "Repositorio",
+      "linkText": "mini-framework",
+      "linkText_1": "mini-framework.com",
+      "imageUrl": "./img/portafolio/page/repositrio.png",
+      "imageUrl_1": "./img/portafolio/logo/repositrio.png",
+      "externalLink": "https://github.com/jorgedipra/mini-framework",
+      "externalLink_1": "https://github.com/jorgedipra/mini-framework"
+    },
+    {
+      "titulo": "Repositorio",
+      "linkText": "ConsoleAsistente",
+      "linkText_1": "ConsoleAsistente.com",
+      "imageUrl": "./img/portafolio/page/repositrio.png",
+      "imageUrl_1": "./img/portafolio/logo/repositrio.png",
+      "externalLink": "https://github.com/jorgedipra/ConsoleAsistente",
+      "externalLink_1": "https://github.com/jorgedipra/ConsoleAsistente"
+    }
+  ]
+}
