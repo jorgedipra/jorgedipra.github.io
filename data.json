@@ -129,13 +129,13 @@
       "externalLink_1": "https://web.archive.org/web/20180825151548/http://supersalud.cifooiss.org/"
     },
     {
-      "titulo": "Cursos",
-      "linkText": "Mintrabajo2016",
-      "linkText_1": "mintrabajo2016.cifooiss.org",
-      "imageUrl": "./img/portafolio/page/mintrabajo2016.png",
-      "imageUrl_1": "./img/portafolio/logo/mintrabajo2016.png",
-      "externalLink": "https://web.archive.org/web/20180825151548/http://mintrabajo2016.cifooiss.org/",
-      "externalLink_1": "https://web.archive.org/web/20180825151548/http://mintrabajo2016.cifooiss.org/"
+      "titulo": "Desarrollo",
+      "linkText": "SuperSalud",
+      "linkText_1": "supersaludregistro.cifooiss.com",
+      "imageUrl": "./img/portafolio/page/supersaludregistro.png",
+      "imageUrl_1": "./img/portafolio/logo/SuperSalud.png",
+      "externalLink": "https://web.archive.org/web/20151211001518/http://supersaludregistro.cifooiss.com/",
+      "externalLink_1": "https://web.archive.org/web/20151211001518/http://supersaludregistro.cifooiss.com/"
     },
     {
       "titulo": "Cursos",
@@ -152,8 +152,8 @@
       "linkText_1": "supersubsidio2016.cifooiss.org",
       "imageUrl": "./img/portafolio/page/Supersubsidio.png",
       "imageUrl_1": "./img/portafolio/logo/Supersubsidio.png",
-      "externalLink": "https://web.archive.org/web/20180825151548/http://supersubsidio2016.cifooiss.org/",
-      "externalLink_1": "https://web.archive.org/web/20180825151548/http://supersubsidio2016.cifooiss.org/"
+      "externalLink": "https://web.archive.org/web/20180818224610/http://www.ssf.gov.co/wps/portal/ES/Inicio",
+      "externalLink_1": "https://web.archive.org/web/20180818224610/http://www.ssf.gov.co/wps/portal/ES/Inicio"
     },
     {
       "titulo": "Informativa",
@@ -170,8 +170,8 @@
       "linkText_1": "formalizacionlaboral.org",
       "imageUrl": "./img/portafolio/page/formalizacionlaboral.png",
       "imageUrl_1": "./img/portafolio/logo/formalizacionlaboral.png",
-      "externalLink": "https://web.archive.org/web/20180825151548/http://formalizacionlaboral.org/",
-      "externalLink_1": "https://web.archive.org/web/20180825151548/http://formalizacionlaboral.org/"
+      "externalLink": "https://web.archive.org/web/20161004102513/http://formalizacionlaboral.org/",
+      "externalLink_1": "https://web.archive.org/web/20161004102513/http://formalizacionlaboral.org/"
     },
     {
       "titulo": "Informativo",
@@ -188,8 +188,8 @@
       "linkText_1": "revisaiberoamerica.org",
       "imageUrl": "./img/portafolio/page/ElObservatorio.png",
       "imageUrl_1": "./img/portafolio/logo/ElObservatorio.png",
-      "externalLink": "https://web.archive.org/web/20180825151548/http://revisaiberoamerica.org/",
-      "externalLink_1": "https://web.archive.org/web/20180825151548/http://revisaiberoamerica.org/"
+      "externalLink": "https://web.archive.org/web/20170527060207/http://revisaiberoamerica.org/new2home/index.php/es/",
+      "externalLink_1": "https://web.archive.org/web/20170527060207/http://revisaiberoamerica.org/new2home/index.php/es/"
     },
     {
       "titulo": "Preproducción",
@@ -197,8 +197,8 @@
       "linkText_1": "cifooiss.com",
       "imageUrl": "./img/portafolio/page/Proyectos.png",
       "imageUrl_1": "./img/portafolio/logo/Proyectos.png",
-      "externalLink": "https://web.archive.org/web/20180825151548/http://cifooiss.com/",
-      "externalLink_1": "https://web.archive.org/web/20180825151548/http://cifooiss.com/"
+      "externalLink": "https://web.archive.org/web/20180823221437/http://cifooiss.com/v3/#/Cifooiss",
+      "externalLink_1": "https://web.archive.org/web/20180823221437/http://cifooiss.com/v3/#/Cifooiss"
     },
     {
       "titulo": "Informativa",
@@ -206,17 +206,35 @@
       "linkText_1": "cifooiss.org",
       "imageUrl": "./img/portafolio/page/cifooiss.png",
       "imageUrl_1": "./img/portafolio/logo/cifooiss.png",
-      "externalLink": "https://web.archive.org/web/20180825151548/http://cifooiss.org/",
-      "externalLink_1": "https://web.archive.org/web/20180825151548/http://cifooiss.org/"
+      "externalLink": "https://web.archive.org/web/20161003183047/http://cifooiss.com/",
+      "externalLink_1": "https://web.archive.org/web/20161003183047/http://cifooiss.com/"
+    },
+    {
+      "titulo": "Cursos",
+      "linkText": "Mintrabajo2017",
+      "linkText_1": "mintrabajo2017.cifooiss.org",
+      "imageUrl": "./img/portafolio/page/mintrabajo2016.png",
+      "imageUrl_1": "./img/portafolio/logo/mintrabajo2016.png",
+      "externalLink": "https://web.archive.org/web/20171027015458/http://mintrabajo2017.cifooiss.org/",
+      "externalLink_1": "https://web.archive.org/web/20171027015458/http://mintrabajo2017.cifooiss.org/"
+    },
+    {
+      "titulo": "Cursos",
+      "linkText": "Mintrabajo2016",
+      "linkText_1": "mintrabajo.cifooiss.org",
+      "imageUrl": "./img/portafolio/page/Mintrabajo2015.png",
+      "imageUrl_1": "./img/portafolio/logo/Mintrabajo2015.png",
+      "externalLink": "https://web.archive.org/web/20170504131700/http://mintrabajo.cifooiss.org/",
+      "externalLink_1": "https://web.archive.org/web/20170504131700/http://mintrabajo.cifooiss.org/"
     },
     {
       "titulo": "Cursos",
       "linkText": "Mintrabajo2015",
-      "linkText_1": "mintrabajo.cifooiss.org",
+      "linkText_1": "campus.cifooiss.org",
       "imageUrl": "./img/portafolio/page/Mintrabajo2015.png",
       "imageUrl_1": "./img/portafolio/logo/Mintrabajo2015.png",
-      "externalLink": "https://web.archive.org/web/20180825151548/http://mintrabajo.cifooiss.org/",
-      "externalLink_1": "https://web.archive.org/web/20180825151548/http://mintrabajo.cifooiss.org/"
+      "externalLink": "https://web.archive.org/web/20200511215602/http://campus.cifooiss.org/",
+      "externalLink_1": "https://web.archive.org/web/20200511215602/http://campus.cifooiss.org/"
     },
     {
       "titulo": "Pruebas",
@@ -224,8 +242,8 @@
       "linkText_1": "ingenieria.cifooiss.com",
       "imageUrl": "./img/portafolio/page/Ingenieria.png",
       "imageUrl_1": "./img/portafolio/logo/Ingenieria.png",
-      "externalLink": "https://web.archive.org/web/20180825151548/http://ingenieria.cifooiss.com/",
-      "externalLink_1": "https://web.archive.org/web/20180825151548/http://ingenieria.cifooiss.com/"
+      "externalLink": "https://web.archive.org/web/20180823221437/http://cifooiss.com/v3/#/Cifooiss",
+      "externalLink_1": "https://web.archive.org/web/20180823221437/http://cifooiss.com/v3/#/Cifooiss"
     },
     {
       "titulo": "Cursos",
@@ -235,7 +253,8 @@
       "imageUrl_1": "./img/portafolio/logo/Promedco.png",
       "externalLink": "https://web.archive.org/web/20180825151548/http://promedco.estrategiayconocimiento.com/",
       "externalLink_1": "https://web.archive.org/web/20180825151548/http://promedco.estrategiayconocimiento.com/"
-    },
+    }
+    ,
     {
       "titulo": "Cursos",
       "linkText": "Bookpro-v",
@@ -244,6 +263,15 @@
       "imageUrl_1": "./img/portafolio/logo/Bookpro-v.png",
       "externalLink": "https://github.com/jorgedipra/bookpro-v",
       "externalLink_1": "https://jorgedipra.github.io/bookpro-v/index1.html"
+    },
+    {
+      "titulo": "Desarrollo",
+      "linkText": "cassius",
+      "linkText_1": "cassiusph.com",
+      "imageUrl": "./img/portafolio/page/cassius.png",
+      "imageUrl_1": "./img/portafolio/logo/cassius.png",
+      "externalLink": "https://web.archive.org/web/20140901094602/http://www.cassiusph.com/",
+      "externalLink_1": "https://web.archive.org/web/20140901094602/http://www.cassiusph.com/"
     },
     {
       "titulo": "Repositorio",
