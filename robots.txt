@@ -1,0 +1,13 @@
+User-agent: *
+Allow: */uploads$/
+Allow: /*.js$/
+Allow: /*.css$//
+Allow: *.png$/
+Allow: /*.jpg$/
+Allow: /*.jpeg$/
+Allow: /*.gif$/
+Allow: /*.svg$/
+Allow: /*.webp$/
+Allow: /*.pdf$
+
+Sitemap: https://jorgedipra.github.io/sitemap.xml
