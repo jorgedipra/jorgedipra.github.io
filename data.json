@@ -257,12 +257,12 @@
     ,
     {
       "titulo": "Cursos",
-      "linkText": "Bookpro-v",
+      "linkText": "Bookpro-v (Plantilla)",
       "linkText_1": "bookpro-v.com",
       "imageUrl": "./img/portafolio/page/Bookpro-v.png",
       "imageUrl_1": "./img/portafolio/logo/Bookpro-v.png",
-      "externalLink": "https://github.com/jorgedipra/bookpro-v",
-      "externalLink_1": "https://jorgedipra.github.io/bookpro-v/index1.html"
+      "externalLink": "https://jorgedipra.github.io/bookpro-v/",
+      "externalLink_1": "https://jorgedipra.github.io/bookpro-v/"
     },
     {
       "titulo": "Desarrollo",
