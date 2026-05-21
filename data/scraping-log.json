@@ -1,0 +1,342 @@
+[
+  {
+    "category": "personal",
+    "name": "jorgedipra",
+    "url": "https://jorgedipra.lovestoblog.com/",
+    "timestamp": "2026-05-21T20:48:02.411Z",
+    "status": "success",
+    "screenshotPath": "personal/personal-jorgedipra.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "ecfi",
+    "name": "ecfi-edu-co",
+    "url": "https://ecfi.edu.co",
+    "timestamp": "2026-05-21T20:48:12.592Z",
+    "status": "success",
+    "screenshotPath": "ecfi/ecfi-ecfi-edu-co.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "ecfi",
+    "name": "campus-ecfi",
+    "url": "https://campus.ecfi.edu.co/",
+    "timestamp": "2026-05-21T20:48:29.856Z",
+    "status": "success",
+    "screenshotPath": "ecfi/ecfi-campus-ecfi.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "ecfi",
+    "name": "opciondegrado-ecfi",
+    "url": "https://opciondegrado.ecfi.edu.co/",
+    "timestamp": "2026-05-21T20:48:35.399Z",
+    "status": "success",
+    "screenshotPath": "ecfi/ecfi-opciondegrado-ecfi.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "ecfi",
+    "name": "ilbello",
+    "url": "https://ilbello.com.co/",
+    "timestamp": "2026-05-21T20:48:45.570Z",
+    "status": "success",
+    "screenshotPath": "ecfi/ecfi-ilbello.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "ecfi",
+    "name": "ecfi-education-specialist",
+    "url": "https://ecfieducationspecialist.edu.co/",
+    "timestamp": "2026-05-21T20:48:55.050Z",
+    "status": "success",
+    "screenshotPath": "ecfi/ecfi-ecfi-education-specialist.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "ecfi",
+    "name": "proempresarial-consultores",
+    "url": "https://proempresarialconsultores.com/",
+    "timestamp": "2026-05-21T20:49:15.505Z",
+    "status": "success",
+    "screenshotPath": "ecfi/ecfi-proempresarial-consultores.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "ecfi",
+    "name": "campus2-ilbello",
+    "url": "https://campus2.ilbello.com.co/",
+    "timestamp": "2026-05-21T20:49:35.351Z",
+    "status": "success",
+    "screenshotPath": "ecfi/ecfi-campus2-ilbello.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-camara-libro-la-paz",
+    "url": "https://isbn.camaralibrolapaz.org.bo/",
+    "timestamp": "2026-05-21T20:50:05.461Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-camara-libro-la-paz.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-costa-rica-sinabi",
+    "url": "https://isbncostarica.sinabi.cerlalc.org/",
+    "timestamp": "2026-05-21T20:50:08.688Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-costa-rica-sinabi.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-cuba-ccl",
+    "url": "https://isbncuba.ccl.cerlalc.org/",
+    "timestamp": "2026-05-21T20:50:10.523Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-cuba-ccl.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-ecuador",
+    "url": "https://isbnecuador.com/",
+    "timestamp": "2026-05-21T20:50:12.426Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-ecuador.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-mexico-indautor",
+    "url": "https://isbnmexico.indautor.cerlalc.org/",
+    "timestamp": "2026-05-21T20:50:14.358Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-mexico-indautor.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-guatemala-ageg",
+    "url": "https://isbn.bnphu.gob.do/",
+    "timestamp": "2026-05-21T20:50:16.209Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-guatemala-ageg.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-bnphu-dominicana",
+    "url": "https://isbn.bnphu.gob.do/",
+    "timestamp": "2026-05-21T20:50:18.200Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-bnphu-dominicana.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-panama-binal",
+    "url": "http://isbn.binal.ac.pa/risbn53/index.php",
+    "timestamp": "2026-05-21T20:50:20.383Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-panama-binal.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-bnp-peru",
+    "url": "https://isbn.bnp.gob.pe/",
+    "timestamp": "2026-05-21T20:50:22.717Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-bnp-peru.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-chile",
+    "url": "https://isbnchile.cl/",
+    "timestamp": "2026-05-21T20:50:24.299Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-chile.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-el-salvador-binaes",
+    "url": "https://isbnelsalvador.binaes.cerlalc.org/",
+    "timestamp": "2026-05-21T20:50:27.432Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-el-salvador-binaes.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-honduras-sira",
+    "url": "https://sira.honduras.cerlalc.org/",
+    "timestamp": "2026-05-21T20:50:29.283Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-honduras-sira.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-honduras-deca",
+    "url": "https://isbnhonduras.deca.cerlalc.org/",
+    "timestamp": "2026-05-21T20:50:30.734Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-honduras-deca.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "isbn",
+    "name": "isbn-venezuela-cenal",
+    "url": "http://isbn.cenal.gob.ve/",
+    "timestamp": "2026-05-21T20:50:32.248Z",
+    "status": "success",
+    "screenshotPath": "isbn/isbn-isbn-venezuela-cenal.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "cerlalc",
+    "name": "cerlalc-org",
+    "url": "https://cerlalc.org/",
+    "timestamp": "2026-05-21T20:50:43.166Z",
+    "status": "success",
+    "screenshotPath": "cerlalc/cerlalc-cerlalc-org.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "cerlalc",
+    "name": "foros-cerlalc",
+    "url": "https://foros.cerlalc.org/",
+    "timestamp": "2026-05-21T20:50:47.644Z",
+    "status": "success",
+    "screenshotPath": "cerlalc/cerlalc-foros-cerlalc.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "cerlalc",
+    "name": "encuestas-cerlalc",
+    "url": "https://encuestas.cerlalc.org/index.php",
+    "timestamp": "2026-05-21T20:50:50.245Z",
+    "status": "success",
+    "screenshotPath": "cerlalc/cerlalc-encuestas-cerlalc.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "cerlalc",
+    "name": "marrakech-cerlalc",
+    "url": "https://marrakech.cerlalc.org/",
+    "timestamp": "2026-05-21T20:50:51.529Z",
+    "status": "success",
+    "screenshotPath": "cerlalc/cerlalc-marrakech-cerlalc.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "cerlalc",
+    "name": "marrakech-cerlalc-ecuador",
+    "url": "https://marrakech.cerlalc.org/ecuador/dashboard/",
+    "timestamp": "2026-05-21T20:50:53.553Z",
+    "status": "success",
+    "screenshotPath": "cerlalc/cerlalc-marrakech-cerlalc-ecuador.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "cerlalc",
+    "name": "marrakech-cerlalc-argentina",
+    "url": "https://marrakech.cerlalc.org/argentina/dashboard/",
+    "timestamp": "2026-05-21T20:50:58.012Z",
+    "status": "failed",
+    "screenshotPath": null,
+    "error": "HTTP 410",
+    "statusCode": 410
+  },
+  {
+    "category": "cerlalc",
+    "name": "marrakech-cerlalc-panama",
+    "url": "https://marrakech.cerlalc.org/panama/dashboard/",
+    "timestamp": "2026-05-21T20:50:59.903Z",
+    "status": "success",
+    "screenshotPath": "cerlalc/cerlalc-marrakech-cerlalc-panama.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "educativas",
+    "name": "aulavirtual-cerlalc",
+    "url": "https://aulavirtual.cerlalc.org",
+    "timestamp": "2026-05-21T20:51:03.133Z",
+    "status": "success",
+    "screenshotPath": "educativas/educativas-aulavirtual-cerlalc.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "educativas",
+    "name": "aulavirtual-iberbibliotecas",
+    "url": "https://aulavirtual.iberbibliotecas.org/",
+    "timestamp": "2026-05-21T20:51:04.856Z",
+    "status": "success",
+    "screenshotPath": "educativas/educativas-aulavirtual-iberbibliotecas.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "educativas",
+    "name": "iberbibliotecas",
+    "url": "https://www.iberbibliotecas.org/",
+    "timestamp": "2026-05-21T20:51:06.385Z",
+    "status": "success",
+    "screenshotPath": "educativas/educativas-iberbibliotecas.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "educativas",
+    "name": "info-cerlalc",
+    "url": "https://info.cerlalc.org/",
+    "timestamp": "2026-05-21T20:51:10.242Z",
+    "status": "success",
+    "screenshotPath": "educativas/educativas-info-cerlalc.png",
+    "error": null,
+    "statusCode": 200
+  },
+  {
+    "category": "educativas",
+    "name": "trama-cerlalc",
+    "url": "https://trama.cerlalc.org/",
+    "timestamp": "2026-05-21T20:51:14.326Z",
+    "status": "success",
+    "screenshotPath": "educativas/educativas-trama-cerlalc.png",
+    "error": null,
+    "statusCode": 200
+  }
+]

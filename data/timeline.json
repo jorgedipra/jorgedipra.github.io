@@ -1,0 +1,40 @@
+{
+  "experiences": [
+    {
+      "year": "May 2020 - Presente",
+      "title": "Cerlalc · Bogotá, Colombia",
+      "subtitle": "Desarrollador Web Full-Stack / Web Master",
+      "description": "◗ Desarrollo y mantenimiento de plataformas web con soporte a múltiples países de América Latina.\n◗ Administración de servidores Linux y Windows Server, garantizando disponibilidad y seguridad.\n◗ Gestión eficiente de bases de datos MySQL y PostgreSQL y prestación de soporte remoto a nodos internacionales.\n◗ Cumplimiento del rol de Web Master: despliegues, actualizaciones y control de versiones con Git."
+    },
+    {
+      "year": "2024 - 2025",
+      "title": "Universidad ECFI",
+      "subtitle": "Administrador de Infraestructura Web y Desarrollador Full-Stack",
+      "description": "◗ Desarrollo y mantenimiento de plataformas web basadas en Moodle y WordPress.\n◗ Administración y mantenimiento de servidores Linux, garantizando estabilidad, disponibilidad y seguridad.\n◗ Gestión y optimización de bases de datos MySQL.\n◗ Soporte y mantenimiento de código existente en aplicaciones institucionales.\n◗ Implementación de actualizaciones, despliegues y tareas de Web Master.\n◗ Soporte técnico y mejoras sobre plataformas multi CMS."
+    },
+    {
+      "year": "Mar 2020 - May 2020",
+      "title": "Kronotime S.A.S · Bogotá, Colombia",
+      "subtitle": "Desarrollador Full-Stack",
+      "description": "◗ Desarrollo de aplicaciones web de extremo a extremo para marcas de lujo: Carolina Herrera, Hugo Boss, Tommy Hilfiger, Swarovski, Fossil, entre otras.\n◗ Construcción de módulos backend en PHP/Laravel y frontend interactivo con Vue.js y jQuery.\n◗ Administración de entornos web con bases de datos SQL Server, MySQL y PostgreSQL."
+    },
+    {
+      "year": "Dic 2017 - Feb 2020",
+      "title": "Grupo Viajes Azca · Barcelona, España",
+      "subtitle": "Desarrollador Web Full-Stack",
+      "description": "◗ Desarrollo frontend y backend de plataformas de cruceros con patrones MVC y microservicios.\n◗ Integración de servicios AWS (S3, CLI) y consumo de APIs SOAP y REST.\n◗ Diseño UX/UI con Photoshop y optimización de rendimiento para dispositivos móviles.\n◗ Administración de servidores Linux/Windows, bases de datos MySQL y PostgreSQL, y repositorios Git."
+    },
+    {
+      "year": "Mar 2015 - Ene 2018",
+      "title": "Estrategia y Conocimiento S.A.S · Bogotá, Colombia",
+      "subtitle": "Analista Master / Integrador Web",
+      "description": "◗ Desarrollo web full-stack para entidades públicas: SuperSalud, Min. de Trabajo, Secretaría Distrital, Plan Nacional.\n◗ Administración de plataformas Moodle y Joomla con bases de datos MySQL en servidores Linux y Google Cloud.\n◗ Gestión de proyectos a nivel nacional y producción de streaming profesional (cámaras, sonido, iluminación)."
+    },
+    {
+      "year": "Mar 2013 - Oct 2014",
+      "title": "Andina Solution S.A · Bogotá, Colombia",
+      "subtitle": "Programador Web",
+      "description": "◗ Desarrollo frontend y backend con PHP, JavaScript, jQuery y C# para el cliente Propiedad Horizontal.\n◗ Integración de comunicación entre aplicativo y máquinas scanner usando Python.\n◗ Administración de base de datos MSSQL y diseño web con HTML5 y CSS3."
+    }
+  ]
+}
