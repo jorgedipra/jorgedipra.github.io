@@ -549,6 +549,28 @@
       "imageUrl_1": "./img/portafolio/logo/Sopa-de-Letras.png",
       "externalLink": "https://jorgedipra.github.io/Sopa-de-Letras/",
       "externalLink_1": "https://github.com/jorgedipra/Sopa-de-Letras"
+    },
+    {
+      "titulo": "ServidorManager",
+      "categoria": "repositorio",
+      "descripcion": "Aplicación de escritorio para gestionar y supervisar múltiples procesos de desarrollo con GUI de tema oscuro",
+      "linkText": "ServidorManager",
+      "linkText_1": "github.com/jorgedipra/ServidorManager",
+      "imageUrl": "./img/portafolio/page/repositrio.png",
+      "imageUrl_1": "./img/portafolio/logo/repositrio.png",
+      "externalLink": "https://github.com/jorgedipra/ServidorManager",
+      "externalLink_1": "https://github.com/jorgedipra/ServidorManager"
+    },
+    {
+      "titulo": "Alarmix",
+      "categoria": "repositorio",
+      "descripcion": "Reloj despertador minimalista multiplataforma construido con Electron",
+      "linkText": "Alarmix",
+      "linkText_1": "github.com/jorgedipra/alarmix",
+      "imageUrl": "./img/portafolio/page/repositrio.png",
+      "imageUrl_1": "./img/portafolio/logo/repositrio.png",
+      "externalLink": "https://github.com/jorgedipra/alarmix",
+      "externalLink_1": "https://github.com/jorgedipra/alarmix"
     }
   ]
 }
